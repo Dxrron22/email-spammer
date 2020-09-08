@@ -1,5 +1,5 @@
 # email-spammer
-
+Demo = https://www.youtube.com/watch?v=5BhjfQxAmps
 Go on https://discord.com/developers/applications
 Make an application - make a bot - put the bot token in the setup.ini file.
 On the left - where you clicked bot - above will be something that reads OAuth2 - Click it and click "bot" on the top / 1st checkbox and then click "Administrator" on the bottom / 2nd  checkbox. Copy the link and open it. Now invite the bot to the server you want it in. It'll be offline.
