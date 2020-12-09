@@ -9,7 +9,7 @@ import os
 import sys
 from colorama import Fore, init
 init(convert=True)
-os.system("title EmailSpammer!")
+os.system("title DarronEmailBomber!")
 config = ConfigParser()
 
 config.read('setup.ini')
